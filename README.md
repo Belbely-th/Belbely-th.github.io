@@ -1,4 +1,3 @@
-#%%html
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
@@ -81,8 +80,7 @@
           background-color: #fffff0;
           color: #ebdf7a;
         }
-
-    </style
+</style
 </head>
 <body>
     <!-- Cabeçalho com menu de navegação -->
@@ -96,22 +94,19 @@
             </ul>
         </nav>
     </header>
-
-    <!--  "Sobre Mim" -->
+ <!--  "Sobre Mim" -->
     <section id="sobre-mim">
         <h1>Sobre Mim</h1>
         <p>Olá! Meu nome é Isabelly. Estou cursando Análise e Desenvolvimento de sistemas, pretendo aprofundar meus estudos em Cybersegurança no exterior.</p>
         <p>Apaixonada pela área de exatas, gosto de aprender coisas novas e sempre estar atualizada no mundo da tecnologia.</p>
     </section>
-
-    <!-- "Formação" -->
+ <!-- "Formação" -->
     <section id="formacao">
         <h1>Formação</h1>
         <p>Tecnologia em Análise e Desenvolvimento de sistemas pela Uninter.</p>
         <p>Idiomas: Português (nativo), Inglês (intermediário).</p>
     </section>
-
-    <!-- "Portfólio" -->
+  <!-- "Portfólio" -->
     <section id="portfolio">
         <h1>Portfólio</h1>
         <!-- trabalhos -->
@@ -121,25 +116,23 @@
             <li>Projeto 3 </li>
         </ul>
     </section>
-
-    <!-- "Contato" com um formulário -->
-    <section id="contato">
-        <h1>Contato</h1>
-        <form>
-            <label for="nome">Nome:</label>
-            <input type="text" id="nome" name="nome" required>
-
-            <label for="email">E-mail:</label>
-            <input type="email" id="email" name="email" required>
-
-            <label for="mensagem">Mensagem:</label>
-            <textarea id="mensagem" name="mensagem" rows="5" required></textarea>
-
-            <button type="submit">Enviar</button>
+  <!-- "Contato" com um formulário -->
+  <section id="contato">
+      <h1>Contato</h1>
+      <form>
+           <label for="nome">Nome:</label>
+           <input type="text" id="nome" name="nome" required>
+           
+<label for="email">E-mail:</label>
+<input type="email" id="email" name="email" required>
+           
+<label for="mensagem">Mensagem:</label>
+<textarea id="mensagem" name="mensagem" rows="5" required></textarea>
+          
+<button type="submit">Enviar</button>
         </form>
-    </section>
-
-    <!-- Rodapé -->
+</section>
+<!-- Rodapé -->
     <footer>
         <p> 2024 Isabelly Thaina Silva.</p>
     </footer>
