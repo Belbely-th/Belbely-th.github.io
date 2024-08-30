@@ -1,3 +1,4 @@
+%%html
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
@@ -14,7 +15,7 @@
         }
         body{
             font-family: Serif, sans-serif;
-            font-size: 16px
+            font-size: 16px;
             line-height: 1.6;
             color: #454242;
             background-color: #fffdd0;
@@ -80,7 +81,7 @@
           background-color: #fffff0;
           color: #ebdf7a;
         }
-</style
+</style>
 </head>
 <body>
     <!-- Cabeçalho com menu de navegação -->
